@@ -18,3 +18,8 @@
 # CUBES
 
 方了个块，没有人能到达第三关的游戏！
+
+![test01](/image/test/01.png)
+
+![test01](/image/test/02.png)
+
