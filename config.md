@@ -76,7 +76,7 @@ $$
 
 <center>
     <h4>OrigamiStudio</h4>
-    <img src="data/res/OriStlogo.jpg"
+    <img src="data/res/OrigamiStudio.png"
 </center>
 
 
